@@ -11,21 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "Here you can find a list of my publications. If you cannot access any of the papers listed below, please email me. I would be happy to share it!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "projects by categories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "GitHub profile and repositories.",
+          description: "GitHub repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
