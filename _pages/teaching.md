@@ -20,4 +20,4 @@ The aim of this course is to familiarise students with the operation of R, RStud
 
 During all sessions, they will work with survey data that address issues related to educational and social inequalities. This will allow students to apply the acquired knowledge to real and relevant situations, which will help them to better understand the complexity of these issues and to develop practical skills in data handling.
 
-Course materials can be found [here]()
+Course materials can be found [here](https://github.com/manuelmejiasleiva/introduccion-analisis-datos-R)

@@ -1,7 +1,6 @@
 github_users:
-  - manuelmejiasleiva
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
+  - manuelmejiasleiva/introduccion-analisis-datos-R
