@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher at the Consejo de la Juventud de España
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image_manuel.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a sociologist from the [Pablo de Olavide University](https://www.upo.es/intl/?lang=en) and I have a PhD in Transdisciplinary Research in Education from the [University of Valladolid](https://universityofvalladolid.uva.es/). I also have a Master's degree in Political and Electoral Analysis from the [University Carlos III of Madrid](https://www.uc3m.es/Inicio) and a Master's degree in Data Science from the Universidad Antonio de Nebrija.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests focus on families, educational inequality and the intergenerational transmission of (dis)advantages. I have also worked on issues such as child poverty, youth emancipation and gender inequalities in childhood and adolescence. In my research I use quantitative methods and I am currently deepening the use of causal inference designs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work has been published in journals such as [Revista Española de Investigaciones Sociológicas](https://reis.cis.es/index.php/reis), [Genus](https://genus.springeropen.com/) and [International Journal of Sociology of Education](https://hipatiapress.com/hpjournals/index.php/rise/), among others. You can consult my publications and profile in [Google Scholar](https://scholar.google.es/citations?user=bNFuD_YAAAAJ&hl=es), where most of my research is available in open access.
